@@ -1,9 +1,12 @@
 # DeepSketch2Face
+
+### Note: The Demo and Database will update in August. Please keep staring if you need them.
+
 Demo of [DeepSketch2Face: A Deep Learning Based Sketching System for 3D Face and Caricature Modeling](http://i.cs.hku.hk/~xghan/papers/deepske2face.pdf).
 ![Logo](http://i.cs.hku.hk/~xghan/Projects/ske2face_files/image004.gif)
 We use Caffe modified from [Microsoft/Caffe](https://github.com/Microsoft/Caffe). Default Development OS is Windows 10 x64.
 
-## Demo - COMMING SOON
+## Demo (Comming in August)
 
 0. Download repo [here](https://github.com/irsisyphus/deepsketch2face/archive/master.zip)
 1. Download [caffemodel](TODO) and expand to `$(this_repo)\demo`
@@ -14,7 +17,7 @@ We use Caffe modified from [Microsoft/Caffe](https://github.com/Microsoft/Caffe)
 1. Moving the program window may cause shift in transparent drawing window. We advice you not to move the program window.
 2. Run `$(this_repo)\demo\deepsketch2face_shift.exe` if the projection of you mouse in refinement mode is not correct.
 
-## Source Code Reproduction - TO BE ANNOUNCED
+## Source Code Reproduction (Comming next year)
 
 0. Download source repo [here](TODO)
 1. Install [Visual Studio 2013 Ultimate](https://www.microsoft.com/en-US/download/details.aspx?id=44915)
@@ -33,4 +36,4 @@ We use Caffe modified from [Microsoft/Caffe](https://github.com/Microsoft/Caffe)
 2. If the projection of you mouse in refinement mode is not correct, you may change `viewControl->move(x, y);` at around line 137 in `Mainwindow.cpp`
 
 
-## Database - COMMING SOON
+## Database (Comming in August)
