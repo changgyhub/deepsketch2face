@@ -13,7 +13,7 @@ We use Caffe modified from [Microsoft/Caffe](https://github.com/Microsoft/Caffe)
 3. Run `$(this_repo)\demo\deepsketch2face.exe`
 
 ### Known Bugs:
-1. Deformation is not performed after drawing Sketching-Fine mode.
+1. Deformation is not performed after painting in Sketching-Fine mode.
 
 ## Demo (With bilinear encoding)
 Comming in the near future
