@@ -9,7 +9,7 @@ We use Caffe modified from [Microsoft/Caffe](https://github.com/Microsoft/Caffe)
 ## Demo (Pure Alexnet Version)
 0. Download repo [here](https://github.com/irsisyphus/deepsketch2face/archive/master.zip)
 1. Download [caffemodel and dlls](https://www.dropbox.com/s/vub7drvu4tarybf/demo.zip?dl=0) and expand to `$(this_repo)\demo`
-2. Install CUDA v8.0 (into `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0`) and cudnn v5.1 (copy files into `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\cuda`). Other Versions are not supported.
+2. Install CUDA v8.0 (into `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0`). Other Versions are not supported.
 3. Run `$(this_repo)\demo\deepsketch2face.exe`
 
 ## Demo (With bilinear encoding)
