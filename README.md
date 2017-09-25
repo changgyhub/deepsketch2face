@@ -12,9 +12,6 @@ We use Caffe modified from [Microsoft/Caffe](https://github.com/Microsoft/Caffe)
 2. Install CUDA v8.0 (into `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0`) and cudnn v5.1 (copy files into `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\cuda`). Other Versions are not supported.
 3. Run `$(this_repo)\demo\deepsketch2face.exe`
 
-### Known Bugs:
-1. Deformation is not performed after painting in Sketching-Fine mode.
-
 ## Demo (With bilinear encoding)
 Comming in the near future
 
