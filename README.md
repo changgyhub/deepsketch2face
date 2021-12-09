@@ -1,6 +1,6 @@
 # DeepSketch2Face
 
-### Note: The database and the demo with bilinear encoding will be uploaded in the near future. Please keep staring if you need them.
+### Note: The database and the full progame code are not publicly available at the moment under patent protection and other authors' interest.
 
 Demo of [DeepSketch2Face: A Deep Learning Based Sketching System for 3D Face and Caricature Modeling](http://i.cs.hku.hk/~xghan/papers/deepske2face.pdf).
 ![Logo](http://i.cs.hku.hk/~xghan/Projects/ske2face_files/image004.gif)
@@ -13,10 +13,10 @@ We use Caffe modified from [Microsoft/Caffe](https://github.com/Microsoft/Caffe)
 3. Run `$(this_repo)\demo\deepsketch2face.exe`
 
 ## Demo (With bilinear encoding)
-Comming in the near future
+Not available
 
 ## Database
-Comming in the near future
+Not available
 
 ## Source Code Reproduction 
 May not be uploaded.
