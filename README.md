@@ -7,7 +7,7 @@ Demo of [DeepSketch2Face: A Deep Learning Based Sketching System for 3D Face and
 We use Caffe modified from [Microsoft/Caffe](https://github.com/Microsoft/Caffe). Default Development OS is Windows 10 x64.
 
 ## Demo (Pure Alexnet Version)
-0. Download repo [here](https://github.com/irsisyphus/deepsketch2face/archive/master.zip)
+0. Download the exe file in this repository
 1. Download [caffemodel and dlls](https://www.dropbox.com/s/vub7drvu4tarybf/demo.zip?dl=0) and expand to `$(this_repo)\demo`
 2. Install CUDA v8.0 (into `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0`). Other versions may not be supported.
 3. Run `$(this_repo)\demo\deepsketch2face.exe`
